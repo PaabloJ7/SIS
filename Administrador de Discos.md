@@ -9,7 +9,7 @@
 
 
 
-2. **Para cada uno de los discos, realiza una tabla con las particiones que tiene indicando para cada una de las particiones, el tipo de partición la capacidad y el desplazamiento.**
+### 2.Para cada uno de los discos, realiza una tabla con las particiones que tiene indicando para cada una de las particiones, el tipo de partición la capacidad y el desplazamiento.**
 
 Num Particion | Tipo        | Tamaño | Desplazamiento |
 | ------------- | ----------- | ------ | -------------- |
@@ -28,7 +28,7 @@ Num Particion | Tipo        | Tamaño | Desplazamiento |
 
    
 
-3. **Realiza una tabla con los volúmenes que tiene el equipo e indica: su número, letra asignada, sistema de archivos, capacidad, etiqueta, el tamaño y el tipo.**
+### 3.Realiza una tabla con los volúmenes que tiene el equipo e indica: su número, letra asignada, sistema de archivos, capacidad, etiqueta, el tamaño y el tipo.**
 
    | Num Volumen | Letra | Etiqueta  | Formato | Tipo      | Tamaño | Info    |
    | ----------- | ----- | --------- | ------- | --------- | ------ | ------- |
