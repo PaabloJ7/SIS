@@ -11,20 +11,20 @@
 
 2. **Para cada uno de los discos, realiza una tabla con las particiones que tiene indicando para cada una de las particiones, el tipo de partición la capacidad y el desplazamiento.**
 
-   | Num Particion | Tipo        | Tamaño | Desplazamiento |
-   | ------------- | ----------- | ------ | -------------- |
-   | Particion 1   | Sistema     | 100 MB | 1024 KB        |
-   | Partición 2   | Principal   | 185 GB | 101 MB         |
-   | Partición 5   | Desconocido | 58 GB  | 185 GB         |
-   | Partición 3   | Principal   | 101 GB | 244 GB         |
-   | Partición 4   | Desconocido | 120 GB | 345 GB         |
+Num Particion | Tipo        | Tamaño | Desplazamiento |
+| ------------- | ----------- | ------ | -------------- |
+| Particion 1   | Sistema     | 100 MB | 1024 KB        |
+| Partición 2   | Principal   | 185 GB | 101 MB         |
+| Partición 5   | Desconocido | 58 GB  | 185 GB         |
+| Partición 3   | Principal   | 101 GB | 244 GB         |
+| Partición 4   | Desconocido | 120 GB | 345 GB         |
 
-   | Num Particion | Tipo         | Tamaño | Desplazamiento |
-   | ------------- | ------------ | ------ | -------------- |
-   | Particion 1   | Reservado    | 16 MB  | 1024 KB        |
-   | Partición 2   | Principal    | 221 GB | 117 MB         |
-   | Partición 3   | Principal    | 224 GB | 222 GB         |
-   | Partición 4   | Recuperación | 522 MB | 446 GB         |
+| Num Particion | Tipo         | Tamaño | Desplazamiento |
+| ------------- | ------------ | ------ | -------------- |
+| Particion 1   | Reservado    | 16 MB  | 1024 KB        |
+| Partición 2   | Principal    | 221 GB | 117 MB         |
+| Partición 3   | Principal    | 224 GB | 222 GB         |
+| Partición 4   | Recuperación | 522 MB | 446 GB         |
 
    
 
