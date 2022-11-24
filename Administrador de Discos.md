@@ -1,6 +1,6 @@
 # Administrador de Discos
 
-1. **Indica el número de discos que tiene vuestro equipo de clase, la capacidad de cada uno de los discos y el tipo de sector de arranque que usa.**
+### 1.Indica el número de discos que tiene vuestro equipo de clase, la capacidad de cada uno de los discos y el tipo de sector de arranque que usa.**
 
 | Num Disco | Estado   | Tamaño | Disp   | Din  | GPT  |
 | --------- | -------- | ------ | ------ | ---- | ---- |
